@@ -13,7 +13,7 @@
 - Im currently working on EvoX for the r8q
 
 **My local manifest for building EvoX:
-https://github.com/skye-pa1n/local_manifest**
+[![Link]https://github.com/skye-pa1n/local_manifest]**
 
 - Im also developing a custom kernel for the r8q
 
