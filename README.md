@@ -11,7 +11,7 @@
 ## My projects
 
 - Im currently working on EvoX for the r8q
-
+- Im also developing a custom kernel for the r8q
 
 <!---
 skye-pa1n/skye-pa1n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
