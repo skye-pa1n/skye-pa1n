@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @skye-pa1n
-- 👀 I’m interested in Android Development
-- 🌱 I’m currently learing C and im messing with HTML5 (for fun).
-- 🔥 I also like doing some Android kernel things.
-- ⚡ Fun fact: Did you know that i don't know a fun fact? :o
+Hi, I’m @skye
+I’m interested in Android Development
+![image](https://github.com/user-attachments/assets/00019112-4ddb-4b77-89ab-f9416dfc7dc8)
 
 <!---
 skye-pa1n/skye-pa1n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
