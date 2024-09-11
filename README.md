@@ -1,5 +1,6 @@
 ## Hi, I’m @skye
-[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source-150x25.png?v=103)](https://github.com/ellerbrock/open-source-badges/) ![image](https://github.com/user-attachments/assets/00019112-4ddb-4b77-89ab-f9416dfc7dc8)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=wen+gib+voLTE+for+aosp+smasnug?;wen+gib+18382fps+gamingrom+babaji?)](https://git.io/typing-svg)
+ ![image](https://github.com/user-attachments/assets/00019112-4ddb-4b77-89ab-f9416dfc7dc8)
 
 I’m interested in Android Rom & Kernel Development
 
