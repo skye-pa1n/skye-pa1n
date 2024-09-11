@@ -1,6 +1,6 @@
 ## Hi, I’m @skye
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=wen+gib+voLTE+for+aosp+smasnug?;wen+gib+18382fps+gamingrom+babaji?)](https://git.io/typing-svg)
-![image](https://github.com/user-attachments/assets/00019112-4ddb-4b77-89ab-f9416dfc7dc8)
+![image](https://camo.githubusercontent.com/972c64401862d6b00d73b76042d183ed069e6bd2ec21992ce07331ef67547c2c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e64726f69642d3344444338343f7374796c653d666f722d7468652d6261646765266c6f676f3d616e64726f6964266c6f676f436f6c6f723d7768697465)
 
 - I’m interested in Android Rom & Kernel Development
 - I'm currently learning C
