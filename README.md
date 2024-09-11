@@ -5,7 +5,7 @@
 - I’m interested in Android Rom & Kernel Development
 - I'm currently learning C
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skye-pa1n&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skye-pa1n&&theme=github_dark&hide_border=true&layout=compact&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skye-pa1n&&theme=github_dark&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
