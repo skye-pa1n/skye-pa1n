@@ -11,12 +11,12 @@
 ## My projects
 
 - Im currently working on EvoX for the r8q
-
-   **My local manifest for building [[ EvoX ](https://github.com/skye-pa1n/local_manifest)]**
+  
+ **My local manifest for building [[ EvoX ](https://github.com/skye-pa1n/local_manifest)]**
 
 - Im also developing a custom kernel for the r8q
 
-   **My custom kernel [[ source ](https://github.com/skye-pa1n/not_r8q)]**
+ **My custom kernel [[ source ](https://github.com/skye-pa1n/not_r8q)]**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skye-pa1n&&theme=github_dark&hide_border=true&layout=compact&show_icons=true)
 
