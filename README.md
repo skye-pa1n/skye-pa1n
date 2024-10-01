@@ -16,7 +16,7 @@
 
 - Im also developing a custom kernel for the r8q
 
-  **My custom kernel [[ source ](https://github.com/skye-pa1n/not_r8q)]**
+  **My custom kernel [[ source ](https://github.com/skye-pa1n/not_r8q)] Currently Broken**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skye-pa1n&&theme=github_dark&hide_border=true&layout=compact&show_icons=true)
 
