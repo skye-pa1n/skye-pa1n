@@ -1,4 +1,4 @@
-## Hi
+## Hi, im
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=@skye&reversal=false&descAlign=28&descAlignY=49&section=header&textBg=false&fontSize=140&animation=twinkling)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=wen+voLTE+for+aosp+smasnug?;gib+1m+antutu+custo+kramel.)](https://git.io/typing-svg)
