@@ -1,5 +1,5 @@
 ## Hi, im
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=@skye&reversal=false&descAlign=28&descAlignY=49&section=header&textBg=false&fontSize=140&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=@skye_pa1n&reversal=false&descAlign=28&descAlignY=49&section=header&textBg=false&fontSize=140&animation=twinkling)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=wen+voLTE+for+aosp+smasnug?;gib+me+1m+antutu+custom+kramel.)](https://git.io/typing-svg)
 ![image](https://camo.githubusercontent.com/972c64401862d6b00d73b76042d183ed069e6bd2ec21992ce07331ef67547c2c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e64726f69642d3344444338343f7374796c653d666f722d7468652d6261646765266c6f676f3d616e64726f6964266c6f676f436f6c6f723d7768697465) 
