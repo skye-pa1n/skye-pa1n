@@ -26,7 +26,7 @@
  
 **Here's the repo with the [how-to](https://github.com/skye-pa1n/extract_dak_samsung)**
 
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skye-pa1n&&theme=github_dark&hide_border=true&layout=compact&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skye-pa1n&&theme=github_dark&hide_border=true&layout=compact&show_icons=true)
 
 <!---
 skye-pa1n/skye-pa1n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
