@@ -22,7 +22,7 @@
 
   **My custom kernel [[ source ](https://github.com/skye-pa1n/not_r8q)]**
 
-- I have also found a way to [[extract DAK on Samsung Devices](https://github.com/skye-pa1n/extract_dak_samsung)]
+- I have also found a way to [[Extract DAK](https://github.com/skye-pa1n/extract_dak_samsung)] on Samsung Devices
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skye-pa1n&&theme=github_dark&hide_border=true&layout=compact&show_icons=true)
 
