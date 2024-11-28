@@ -27,7 +27,7 @@
 
 - I have also found a way to Extract DAK on Samsung Devices
  
-  **Here's the repo with the [how-to](https://github.com/skye-pa1n/extract_dak_samsung)**
+  **My repo with the [how-to](https://github.com/skye-pa1n/extract_dak_samsung)**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skye-pa1n&&theme=github_dark&hide_border=true&layout=compact&show_icons=true)
 
