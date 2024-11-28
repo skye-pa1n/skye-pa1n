@@ -17,7 +17,8 @@
 
 - Im currently working on EvoX for the r8q ( S20 FE )
   
-  **My local manifest for building [ EvoX](https://github.com/skye-pa1n/local_manifest)**
+<p align="left">
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=skye-pa1n&repo=local_manifest&theme=react&bg_color=1F222E&title_color=4B90E5&hide_border=true&icon_color=4B90E5&show_icons=false" alt="github-readme-streak-stats"></a>
 
 
 - Im also developing a custom kernel for the r8q ( S20 FE )
@@ -27,16 +28,11 @@
 
 
 - I have also found a way to Extract DAK on Samsung Devices
- 
-  **My repo with the [how-to](https://github.com/skye-pa1n/extract_dak_samsung)**
+
+<p align="left">
+    <a   href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=skye-pa1n&repo=extract_dak_samsung&theme=react&bg_color=1F222E&title_color=4B90E5&hide_border=true&icon_color=4B90E5&show_icons=false" alt="github-readme-streak-stats"></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skye-pa1n&&theme=github_dark&hide_border=true&layout=compact&show_icons=true)
-
-##Testing
-
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=skye-pa1n&repo=local_manifest&theme=react&bg_color=1F222E&title_color=4B90E5&hide_border=true&icon_color=4B90E5&show_icons=false" alt="github-readme-streak-stats"></a>
-  <a   href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=skye-pa1n&repo=extract_dak_samsung&theme=react&bg_color=1F222E&title_color=4B90E5&hide_border=true&icon_color=4B90E5&show_icons=false" alt="github-readme-streak-stats"></a>
-<p align="left">
 
 <!---
 skye-pa1n/skye-pa1n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
