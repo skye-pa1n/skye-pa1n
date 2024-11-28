@@ -16,11 +16,11 @@
 
 - Im currently working on EvoX for the r8q ( S20 FE )
   
-  **My local manifest for building [[ EvoX ](https://github.com/skye-pa1n/local_manifest)]**
+  **My local manifest for building [ EvoX](https://github.com/skye-pa1n/local_manifest)**
 
 - Im also developing a custom kernel for the r8q ( S20 FE )
 
-  **My custom kernel [[ source ](https://github.com/skye-pa1n/not_r8q)]**
+  **My custom kernel [ source ](https://github.com/skye-pa1n/not_r8q)**
 
 - I have also found a way to Extract DAK on Samsung Devices
  Here's the repo with the [how-to](https://github.com/skye-pa1n/extract_dak_samsung)
