@@ -21,7 +21,7 @@
 
 
 - Im also developing a custom kernel for the r8q ( S20 FE )
-
+https://github.com/DenverCoder1/github-readme-youtube-cards
   **My custom kernel [ source ](https://github.com/skye-pa1n/not_r8q)**
 
 
@@ -30,6 +30,12 @@
   **My repo with the [how-to](https://github.com/skye-pa1n/extract_dak_samsung)**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skye-pa1n&&theme=github_dark&hide_border=true&layout=compact&show_icons=true)
+
+##Testing
+<p align="left">
+    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=readme-typing-svg&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+<p align="left">
 
 <!---
 skye-pa1n/skye-pa1n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
