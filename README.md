@@ -21,6 +21,11 @@
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=skye-pa1n&repo=local_manifest&theme=react&bg_color=1F222E&title_color=4B90E5&hide_border=true&icon_color=4B90E5&show_icons=false" alt="github-readme-streak-stats"></a>
 
 
+- Im also working on SHRP-Reborn for the r8q
+  
+<p align="left">
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=skye-pa1n&repo=android_device_samsung_r8q-shrp&theme=react&bg_color=1F222E&title_color=4B90E5&hide_border=true&icon_color=4B90E5&show_icons=false" alt="github-readme-streak-stats"></a>
+
 - Im also developing a custom kernel for the r8q ( S20 FE )
   
 <p align="left">
