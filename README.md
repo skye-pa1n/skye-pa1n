@@ -26,11 +26,14 @@
 <p align="left">
     <a href="https://github.com/skye-pa1n/android_device_samsung_r8q-shrp"><img width="288" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=skye-pa1n&repo=android_device_samsung_r8q-shrp&theme=react&bg_color=1F222E&title_color=4B90E5&hide_border=true&icon_color=4B90E5&show_icons=false" alt="github-readme-streak-stats"></a>
 
-- Im also developing a custom kernel for the r8q ( S20 FE )
+- Im also developing a custom AOSP & OneUI kernel for the r8q ( S20 FE )
+  
+<p align="left">
+    <a href="https://github.com/skye-pa1n/not_r8q"><img width="288" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=skye-pa1n&repo=not_r8q&theme=react&bg_color=1F222E&title_color=4B90E5&hide_border=true&icon_color=4B90E5&show_icons=false" alt="readme-typing-svg"></a>
   
 <p align="left">
     <a href="https://github.com/skye-pa1n/not_r8q"><img width="288" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=skye-pa1n&repo=not_r8q_ui&theme=react&bg_color=1F222E&title_color=4B90E5&hide_border=true&icon_color=4B90E5&show_icons=false" alt="readme-typing-svg"></a>
-
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skye-pa1n&&theme=github_dark&hide_border=true&layout=compact&show_icons=true)
 
 <!---
